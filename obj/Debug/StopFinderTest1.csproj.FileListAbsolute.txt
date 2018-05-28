@@ -1,0 +1,23 @@
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\bin\Debug\StopFinderTest1.exe.config
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\bin\Debug\StopFinderTest1.exe
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\bin\Debug\StopFinderTest1.pdb
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\obj\Debug\StopFinderTest1.csprojAssemblyReference.cache
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\obj\Debug\StopFinderTest1.Properties.Resources.resources
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\obj\Debug\StopFinderTest1.csproj.GenerateResource.cache
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\obj\Debug\StopFinderTest1.csproj.CoreCompileInputs.cache
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\obj\Debug\StopFinderTest1.csproj.CopyComplete
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\obj\Debug\StopFinderTest1.exe
+C:\Users\Nikki\source\repos\StopFinderTest1\StopFinderTest1\obj\Debug\StopFinderTest1.pdb
+D:\GitHub Repositories\StopFinderTest1\bin\Debug\StopFinderTest1.exe.config
+D:\GitHub Repositories\StopFinderTest1\bin\Debug\StopFinderTest1.exe
+D:\GitHub Repositories\StopFinderTest1\bin\Debug\StopFinderTest1.pdb
+D:\GitHub Repositories\StopFinderTest1\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub Repositories\StopFinderTest1\obj\Debug\StopFinderTest1.csprojAssemblyReference.cache
+D:\GitHub Repositories\StopFinderTest1\obj\Debug\StopFinderTest1.Properties.Resources.resources
+D:\GitHub Repositories\StopFinderTest1\obj\Debug\StopFinderTest1.csproj.GenerateResource.cache
+D:\GitHub Repositories\StopFinderTest1\obj\Debug\StopFinderTest1.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\StopFinderTest1\obj\Debug\StopFinderTest1.csproj.CopyComplete
+D:\GitHub Repositories\StopFinderTest1\obj\Debug\StopFinderTest1.exe
+D:\GitHub Repositories\StopFinderTest1\obj\Debug\StopFinderTest1.pdb
