@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7usR1stilj2cn6RWl8PYJO3+j9QFbOAR3Up3GshT8QcXuOFSOtmeru+M+QjItfzFSopzrf/Yk3Foy3y9jNlfg==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikki\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Nikki\\.nuget\\packages\\selenium.webdriver.chromedriver\\84.0.4147.3001\\selenium.webdriver.chromedriver.84.0.4147.3001.nupkg.sha512"
+  ],
+  "logs": []
+}

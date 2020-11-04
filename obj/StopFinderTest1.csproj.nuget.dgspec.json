@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj": {}
+  },
+  "projects": {
+    "E:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj",
+        "projectName": "StopFinderTest1",
+        "projectPath": "E:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj",
+        "packagesPath": "C:\\Users\\Nikki\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub Repositories\\StopFinderTest1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Nikki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[84.0.4147.3001, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

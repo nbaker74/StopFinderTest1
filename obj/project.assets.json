@@ -2,29 +2,41 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.6.1": {
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
           "lib/net45/Newtonsoft.Json.dll": {}
         },
         "runtime": {
           "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/84.0.4147.3001": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
         }
       }
     },
     ".NETFramework,Version=v4.6.1/win": {
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
           "lib/net45/Newtonsoft.Json.dll": {}
         },
         "runtime": {
           "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/84.0.4147.3001": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
         }
       }
     },
     ".NETFramework,Version=v4.6.1/win-x64": {
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
           "lib/net45/Newtonsoft.Json.dll": {}
@@ -32,26 +44,40 @@
         "runtime": {
           "lib/net45/Newtonsoft.Json.dll": {}
         }
+      },
+      "Selenium.WebDriver.ChromeDriver/84.0.4147.3001": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
       }
     },
     ".NETFramework,Version=v4.6.1/win-x86": {
-      "Newtonsoft.Json/11.0.2": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
           "lib/net45/Newtonsoft.Json.dll": {}
         },
         "runtime": {
           "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/84.0.4147.3001": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
         }
       }
     }
   },
   "libraries": {
-    "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
-      "path": "newtonsoft.json/11.0.2",
+      "path": "newtonsoft.json/12.0.3",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -71,14 +97,33 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.11.0.2.nupkg.sha512",
-        "newtonsoft.json.nuspec"
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/84.0.4147.3001": {
+      "sha512": "uNaEof82PiEqWKSRJNuejxxq427yIDMiEyyfi0BS3WbLRlLLtKfPV3MKVLc6VP6uWp167iOzyYy3LlQXSJ+71A==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/84.0.4147.3001",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.84.0.4147.3001.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.6.1": [
-      "Newtonsoft.Json >= 11.0.2"
+      "Newtonsoft.Json >= 12.0.3",
+      "Selenium.WebDriver.ChromeDriver >= 84.0.4147.3001"
     ]
   },
   "packageFolders": {
@@ -87,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj",
+      "projectUniqueName": "E:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj",
       "projectName": "StopFinderTest1",
-      "projectPath": "D:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj",
+      "projectPath": "E:\\GitHub Repositories\\StopFinderTest1\\StopFinderTest1.csproj",
       "packagesPath": "C:\\Users\\Nikki\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub Repositories\\StopFinderTest1\\obj\\",
+      "outputPath": "E:\\GitHub Repositories\\StopFinderTest1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -116,7 +161,11 @@
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[11.0.2, )"
+            "version": "[12.0.3, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[84.0.4147.3001, )"
           }
         }
       }
